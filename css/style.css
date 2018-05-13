@@ -114,7 +114,7 @@ Responsive media queries
 
 }
 #about{
-	background: url('../img/img.jpg') no-repeat;
+	background: url('../img/img-1.jpg') no-repeat;
 	background-size: cover;
 	margin-bottom: -3px;
 }
@@ -136,12 +136,12 @@ Responsive media queries
 }
 .abt-list li{
 	padding: 5px 0px;
-	font-size: 18px;
+	font-size: 15px;
 	font-weight: 400;
 	color:white;
 }
 #experience{
-	background: url('../img/img-2.png') no-repeat;
+	background: url('../img/img-2.jpg') no-repeat;
 	background-size: cover;
 	margin-bottom: -3px;
 }
@@ -162,21 +162,24 @@ Responsive media queries
 .txtNew {
     word-wrap: break-word;
 }
+.alignFooter{
+	width: 57% !important;
+}
 .font_5 {
     font: normal normal normal 24px/1.4em avenir-lt-w01_35-light1475496,sans-serif;
-    color: saddlebrown;
+    color: white;
 }
 .font_7 {
 	font-weight: bolder;
     font: normal normal normal 16px/1.4em avenir-lt-w01_85-heavy1475544,sans-serif;
-    color: orangered !important;
+    color: white !important;
 }
 .font_8 {
     font: normal normal normal 15px/1.4em avenir-lt-w01_35-light1475496,sans-serif;
-    color: saddlebrown !important;
+    color: white !important;
 }
 .exp-title{
-	color: saddlebrown !important;
+	color: white !important;
 }
 .grid-padding{
 	padding: 0 8px;
